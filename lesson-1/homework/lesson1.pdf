@@ -1,0 +1,65 @@
+1 -   Power BI nima va uning uchta asosiy komponenti?
+Power BI – Microsoft ishlab chiqqan biznes analitika vositasi. Uchta asosiy komponenti: Power BI Desktop, Power BI Service, Power BI Mobile.
+
+ 
+2 -   Power BI dashboards uchun 2 ta biznes qo‘llanish holati?
+•	Savdo bo‘limi: oyma-oy sotuv natijalarini ko‘rish.
+•	Moliyaviy bo‘lim: xarajat va foyda tahlili.
+
+3 -   Power BI Desktop dasturini qanday yuklab olish va o‘rnatish?
+Microsoft Store yoki powerbi.microsoft.com orqali yuklab olish mumkin, so‘ng o‘rnatib ishga tushiriladi.
+
+
+4 -   Power BI Desktop va Power BI Service farqi?
+•	Desktop: hisobotlarni yaratish va tahrirlash uchun.
+•	Service: hisobotlarni onlayn ulashish va kuzatish uchun.
+
+
+5 -   Power BI loyihasi qaysi fayl kengaytmasidan foydalanadi?
+.pbix fayl kengaytmasidan foydalanadi.
+
+
+6 -   Power Query ning Power BI dagi roli?
+Ma’lumotlarni tozalash, transformatsiya qilish, qo‘shish va tayyorlash uchun ishlatiladi (Transform Data orqali kiriladi).
+
+
+7 -   Nima uchun biznes Power BI ni Excel ga nisbatan afzal ko‘radi?
+•	Interaktiv vizualizatsiya imkoniyati.
+•	Katta hajmdagi ma’lumotlarda tezroq ishlaydi.
+•	Avtomatik yangilanish va real vaqt kuzatuvi mavjud.
+
+8 -   Power BI ning bepul versiyasidagi bir cheklov?
+Hisobotlarni boshqalar bilan ulashib bo‘lmaydi, faqat o‘zingiz ko‘rasiz.
+
+
+9 -   Power BI Service dagi “Published Report” nima?
+Desktopda yaratilgan hisobotni Publish orqali Service ga yuborish va onlayn ko‘rish imkoniyati.
+
+
+10 -  Power BI Mobile qanday qulaylik beradi?
+Hisobotlarni telefon yoki planshet orqali istalgan joydan ko‘rish va real vaqt rejimida kuzatish imkoniyati.
+
+
+11 -  Power BI va Tableau solishtirish (pros/cons)?
+•	Power BI afzalligi: arzonroq, Microsoft ekotizimi bilan integratsiya kuchli.
+•	Kamchiligi: juda katta datasetlarda sekinlashishi mumkin.
+•	Tableau afzalligi: murakkab vizualizatsiya kuchliroq.
+•	Kamchiligi: qimmatroq.
+
+12 -   Power BI qanday qilib Azure xizmatlari bilan integratsiya qilinadi?
+Power BI bevosita Azure SQL Database, Azure Data Lake, Azure Synapse Analytics bilan ulanadi va real vaqt tahlilni qo‘llab-quvvatlaydi.
+13 -  Power BI dagi “Gateways” nima va ular qachon kerak bo‘ladi?
+Gateway – lokal (mahalliy) ma’lumotlar bazasi bilan Power BI Service o‘rtasidagi ko‘prik. Kerak bo‘ladi, agar kompaniya ma’lumotlari serverda saqlansa va ularni Service da avtomatik yangilash kerak bo‘lsa.
+
+
+14 -   Kompaniyani Power BI ga ishontirish (ROI)?
+•	Vaqt tejaladi.
+•	Tez qaror qabul qilish imkoniyati.
+•	Arzon narx.
+•	Natijada investitsiya tez qaytadi.
+
+15 -   Power BI ning xavfsizlik imkoniyatlari?
+•	Row-Level Security (RLS) – foydalanuvchi darajasida ma’lumot cheklash.
+•	Ma’lumotlarni shifrlash (data encryption).
+•	Azure Active Directory orqali foydalanuvchi boshqaruvi.
+
